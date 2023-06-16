@@ -35,7 +35,7 @@
             <manifest>
               <addClasspath>true</addClasspath>
               <classpathPrefix>src/main/resources/</classpathPrefix>
-              <mainClass>com.xavki.momo</mainClass>
+              <mainClass>com.xavki.ppppppppppppppp</mainClass>
             </manifest>
           </archive>
         </configuration>
